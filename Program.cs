@@ -37,7 +37,7 @@ namespace Dogrulama
                 }
                 else if (rr < 70 && rr > 89)
                 {
-                    Console.WriteLine("Invalid Region. Serbia region is between 70-89");
+                    Console.WriteLine("Invalid Region. Serbian region is between 70-89");
                 }
                 else
                 {
